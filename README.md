@@ -2,13 +2,11 @@
 
 ## Description
 
-The Weather App is a simple application that provides real-time weather information for a given location. Users can quickly check the current weather conditions, temperature, and forecast for the next few days.
+The Weather App is a simple application that provides real-time weather information for a given location. Users can quickly check the current weather conditions, temperature, and humidity.
 
 ## Features
 
 - **Current Weather:** Get up-to-date information about the current weather conditions, including temperature, humidity, wind speed, and more.
-
-- **Forecast:** View the weather forecast for the next few days to plan ahead.
 
 - **Search:** Enter the name of a city or location to get the weather details for that specific area.
 
